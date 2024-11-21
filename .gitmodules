@@ -1,0 +1,3 @@
+[submodule "themes/cateverywhere-theme"]
+	path = themes/cateverywhere-theme
+	url = https://github.com/randomibis/cateverywhere-theme.git
